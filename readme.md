@@ -1,6 +1,6 @@
-#Cordova SMS Plugin
-
-Cross-platform plugin for Cordova / PhoneGap to to easily send SMS. Available for **Android**, **iOS**, **Windows Phone 8** and **Windows 10 Universal (BETA)**. Specially this plugin also work in **Samsung Tabs**.
+#Cordova SMS All Devices Plugin
+This plugin also work in **Samsung Tabs**.
+Cross-platform plugin for Cordova / PhoneGap to to easily send SMS. Available for **Android**, **iOS**, **Windows Phone 8** and **Windows 10 Universal (BETA)**.
 
 This plugin works with Cordova 3.x, 4.x and 5.x version.
 
@@ -8,7 +8,7 @@ This plugin works with Cordova 3.x, 4.x and 5.x version.
 
 Using the Cordova CLI and NPM, run:
 
-    cordova plugin add cordova-mysms-plugin
+    cordova plugin add cordova-sms-all-devices-plugin
 
 It is also possible to install via repo url directly (unstable), run :
 

@@ -1,7 +1,7 @@
 {
-  "name": "cordova-sms-plugin",
-  "version": "0.1.10",
-  "description": "Cross-platform plugin for Cordova / PhoneGap to to easily send SMS. Available for Android, iOS and WP.",
+  "name": "cordova-sms-all-devices-plugin",
+  "version": "0.1.11",
+  "description": "Cross-platform plugin for Cordova / PhoneGap to to easily send SMS. Available for Android, iOS and WP.This plugin also work in Samsung Tabs",
   "cordova": {
     "id": "com.cordova.plugins.sms",
     "platforms": [
@@ -34,5 +34,12 @@
   ],
   "author": "Devendra Singh",
   "license": "MIT",
-  "homepage": "https://github.com/DevendraSinghNagar/cordova-sms-all-devices-plugin.git"
+  "homepage": "https://github.com/DevendraSinghNagar/cordova-sms-all-devices-plugin.git",
+  "bugs": {
+    "url": "https://github.com/DevendraSinghNagar/cordova-sms-all-devices-plugin/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
